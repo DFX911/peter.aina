@@ -36,7 +36,7 @@ to building structures.
 - Proactively participated in meetings and helped create new
 practices.
 
-## Projects
+## Portfolio
 ### HR Attrition
 [Dashboard](https://docs.google.com/spreadsheets/d/1zR2jBraQ1DJAvr7YtGk_dR4haJRXyQLF/edit?usp=sharing&ouid=112778867822070078163&rtpof=true&sd=true)
 
